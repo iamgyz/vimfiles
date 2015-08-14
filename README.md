@@ -14,11 +14,12 @@ Bundles
 * Fugitive
 * Tabular
 * XtermColorTable
+* Vim-gitgutter 
 
 Installation
 ------------
 
 1. `git clone https://github.com/starbops/vimfiles.git`
 2. `cd vimfiles`
-3. `ln -s .vimrc ~/.vimrc`
-4. `ln -s .vim ~/.vim`
+3. `chmod +x install.sh`
+4. `./install.sh`
