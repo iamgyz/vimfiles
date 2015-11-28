@@ -19,7 +19,7 @@ Bundles
 Installation
 ------------
 
-1. `git clone https://github.com/starbops/vimfiles.git`
+1. `git clone https://github.com/iamgyz/vimfiles.git`
 2. `cd vimfiles`
 3. `chmod +x install.sh`
 4. `./install.sh`
